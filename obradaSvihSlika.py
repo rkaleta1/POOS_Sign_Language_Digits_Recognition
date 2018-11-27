@@ -125,5 +125,5 @@ def obradi_i_dodaj_slike(putanja_izvor, putanja_destinacija):
 
 
 
-obradiDataset(r"C:\Users\userr\vscodePython\poosProjekat", r"C:\Users\userr\vscodePython\poosProjekat\IzostrenoMesud",izostri_sliku)
+#obradiDataset(r"C:\Users\userr\vscodePython\poosProjekat", r"C:\Users\userr\vscodePython\poosProjekat\IzostrenoMesud",izostri_sliku)
 #razdvojiValidacijskePodatke(r"C:\Users\userr\vscodePython\poosProjekat\CroppedAndFiltered", r"C:\Users\userr\vscodePython\poosProjekat\CroppedAndFilteredValidacija")
